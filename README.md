@@ -23,37 +23,6 @@
 - output/frames/：从最终 MP4 提取的九个场景中点
 - script.json：完整旁白脚本
 
-## 在远端重建
-
-所有制作操作均在本仓库执行：
-
-    ssh yangshuyun@10.10.10.1
-    cd ~/workspace/dev/ai-video/test-1024-astra
-    ./build.sh build
-    ./build.sh synthesize
-    ./build.sh render
-    ./build.sh verify
-
-神经语音合成需要联网访问 Microsoft Edge Read Aloud 服务，会把本片旁白文字发送给该服务。使用远端已有的 Swift、Foundation、CoreGraphics、CoreText 和 AVFoundation，不安装第三方依赖。
-
-每句配音按文字、声音及语速的 SHA256 缓存。已有有效音频直接复用；仅修改画面时直接 render。字幕及场景时间根据实际配音时长生成。
-
-调整语速：
-
-    NEURAL_RATE=-5% ./build.sh synthesize
-
-单独生成试音：
-
-    ./build.sh build-voice
-    build/edge-voice --text "VPS，中文叫虚拟专用服务器。" \
-      --output output/voice-test.mp3 --voice zh-CN-XiaoxiaoNeural --rate=-5%
-
-预览某一时间点：
-
-    ./build.sh preview 37 output/preview.png
-
-原始系统声音只通过显式命令 synthesize-system 使用；云端合成失败会报错，不会自动更换声音。第一版视频、字幕与时间线备份在 build/previous-tingting/。
-
 ## 文件结构
 
 - sources/Scenes.swift：图形、中文排版、场景动画、字幕和进度条

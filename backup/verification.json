@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "verifiedAt": "2026-10-24T06:50:41Z",
+  "repository": "https://github.com/liuyinchu/ai-video-vps-intro",
+  "downloadedCommit": "736fcf4b5160373cc3d6fb7442f08015385e5f05",
+  "method": "Fresh GitHub SSH clone; git fsck; snapshot SHA256; full extraction; every source file and local cache copy verified",
+  "sourceRoot": "yangshuyun@10.10.10.1:/Users/yangshuyun/workspace/dev/ai-video/test-1024-astra",
+  "synchronizedLocalRoot": "/Users/ysyspace/workspace/dev/open-helper/remote-proj4",
+  "archive": "backup/complete-project-2026-10-24.tar.gz",
+  "archiveBytes": 49643520,
+  "archiveSHA256": "f0e794f4f3d2d3d5f06e0f01a826f24053bbba0148b0df777434c5baaeb0409d",
+  "sourceFileVerification": {
+    "status": "passed",
+    "fileCount": 173,
+    "totalBytes": 54274776,
+    "checks": [
+      "sha256",
+      "size",
+      "mode",
+      "exact_file_set"
+    ]
+  },
+  "localCacheFileCount": 25,
+  "localOnlyFiles": 6,
+  "localCacheSHA256Verification": "passed",
+  "gitObjectIntegrity": "passed"
+}

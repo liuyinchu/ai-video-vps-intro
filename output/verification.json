@@ -1,0 +1,19 @@
+{
+  "audioCodec" : "aac ",
+  "audioDataRate" : 31381.626953125,
+  "audioPeak" : 0.77615571022033691,
+  "audioRMS" : 0.097048924648481472,
+  "bytes" : 9890777,
+  "captionCount" : 25,
+  "decodedAudioSampleCount" : 2547440,
+  "durationSeconds" : 107.36666666666666,
+  "file" : "output\/vps-explained.mp4",
+  "framesPerSecond" : 30,
+  "hasAudio" : true,
+  "height" : 1080,
+  "sceneCount" : 9,
+  "timelineSeconds" : 107.34400000000001,
+  "verifiedAt" : "2026-10-23T20:50:09Z",
+  "videoCodec" : "avc1",
+  "width" : 1920
+}

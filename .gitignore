@@ -1,0 +1,7 @@
+.DS_Store
+build/
+output/*.mp4
+output/*.png
+output/frames/
+output/qa/
+output/*.mp3

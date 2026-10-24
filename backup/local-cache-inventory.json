@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "remoteProjectRoot": "/Users/yangshuyun/workspace/dev/ai-video/test-1024-astra",
+  "ranges": [
+    "/Users/ysyspace/.codex/visualizations/2026/10/23/01a16a60-0b5c-7bd2-8f9f-10adcdc8b32d/vps-video/",
+    "/Users/ysyspace/.codex/generated_images/01a16a60-0b5c-7bd2-8f9f-10adcdc8b32d/exec-b0a59ff5-9249-4f49-b082-0a005857c9b3.png",
+    "/tmp/vps-video-preview/",
+    "/tmp/vps-video-qa/"
+  ],
+  "files": [
+    {
+      "path": "/Users/ysyspace/.codex/visualizations/2026/10/23/01a16a60-0b5c-7bd2-8f9f-10adcdc8b32d/vps-video/video-description.txt",
+      "size": 612,
+      "sha256": "2709b4c849d2c4dd03543d13607c33b6d8bea6eb0661b46123d8285b7bc47af7",
+      "remoteProjectRelativePath": "output/video-description.txt"
+    },
+    {
+      "path": "/Users/ysyspace/.codex/visualizations/2026/10/23/01a16a60-0b5c-7bd2-8f9f-10adcdc8b32d/vps-video/vps-explained-xiaoxiao.zh-CN.srt",
+      "size": 2067,
+      "sha256": "a8efd6fa6029847ecc4c11d38539d87c7e1d41fb3ebeddf7d0c09b33e5a455a1",
+      "remoteProjectRelativePath": "output/vps-explained.zh-CN.srt"
+    },
+    {
+      "path": "/Users/ysyspace/.codex/visualizations/2026/10/23/01a16a60-0b5c-7bd2-8f9f-10adcdc8b32d/vps-video/vps-cover.png",
+      "size": 1594113,
+      "sha256": "672da3cf784de8e5ef8fc145e1f81f9876e3236a66f37ba16d2aaa4b1c8f1e2b",
+      "remoteProjectRelativePath": "output/vps-cover.png"
+    },
+    {
+      "path": "/Users/ysyspace/.codex/visualizations/2026/10/23/01a16a60-0b5c-7bd2-8f9f-10adcdc8b32d/vps-video/vps-explained.zh-CN.srt",
+      "size": 2067,
+      "sha256": "bb406919bf88d0ad7ec8d2bc0149e01aa770c7132226e725e9ecf1ae2043c480",
+      "remoteProjectRelativePath": "build/previous-tingting/vps-explained.zh-CN.srt"
+    },
+    {
+      "path": "/Users/ysyspace/.codex/visualizations/2026/10/23/01a16a60-0b5c-7bd2-8f9f-10adcdc8b32d/vps-video/vps-explained.mp4",
+      "size": 9808034,
+      "sha256": "f6db0d2cfbeddcd65cc285f0f31fc4ffe74833811a8f4e93a7ed49d2cad01a2e",
+      "remoteProjectRelativePath": "build/previous-tingting/vps-explained.mp4"
+    },
+    {
+      "path": "/Users/ysyspace/.codex/visualizations/2026/10/23/01a16a60-0b5c-7bd2-8f9f-10adcdc8b32d/vps-video/vps-explained-xiaoxiao.mp4",
+      "size": 9890777,
+      "sha256": "0154371019e48ce260897803df661a7f249aa888ec87cf0f1ba150732fdbe5cf",
+      "remoteProjectRelativePath": "output/vps-explained-xiaoxiao.mp4"
+    },
+    {
+      "path": "/Users/ysyspace/.codex/visualizations/2026/10/23/01a16a60-0b5c-7bd2-8f9f-10adcdc8b32d/vps-video/cover.png",
+      "size": 148111,
+      "sha256": "aca3df6004b8bea1d8a11e730b6142e6ad8ac93467ebe8b56e31ca9df537d901",
+      "remoteProjectRelativePath": "output/cover.png"
+    },
+    {
+      "path": "/Users/ysyspace/.codex/visualizations/2026/10/23/01a16a60-0b5c-7bd2-8f9f-10adcdc8b32d/vps-video/cover-prompt.txt",
+      "size": 2279,
+      "sha256": "b244f5b341d988b01d6f67d15b82b0ff83e0bd52c3dcfca1d1f41557e6f94e88",
+      "remoteProjectRelativePath": "output/cover-prompt.txt"
+    },
+    {
+      "path": "/Users/ysyspace/.codex/visualizations/2026/10/23/01a16a60-0b5c-7bd2-8f9f-10adcdc8b32d/vps-video/xiaoxiao-preview.mp3",
+      "size": 44640,
+      "sha256": "68b9ee55c0c7a0c9f2f27c0506c071ea1fbb8e771084f37cf8a8e4d16891b460",
+      "remoteProjectRelativePath": "output/xiaoxiao-preview.mp3"
+    },
+    {
+      "path": "/Users/ysyspace/.codex/generated_images/01a16a60-0b5c-7bd2-8f9f-10adcdc8b32d/exec-b0a59ff5-9249-4f49-b082-0a005857c9b3.png",
+      "size": 1594113,
+      "sha256": "672da3cf784de8e5ef8fc145e1f81f9876e3236a66f37ba16d2aaa4b1c8f1e2b",
+      "remoteProjectRelativePath": "output/vps-cover.png"
+    },
+    {
+      "path": "/tmp/vps-video-preview/final-scene-05.png",
+      "size": 325732,
+      "sha256": "30fa1d572fa5d2d632b0bf665beab1c6043ca66b12a225110f871bcf5d3a80de",
+      "supplementalRelativePath": "backup/local-only-assets/vps-video-preview/final-scene-05.png"
+    },
+    {
+      "path": "/tmp/vps-video-preview/preview-opening.png",
+      "size": 139122,
+      "sha256": "742aaa4bbe324369daf5c769f3354cf564a81d06135d723a8d58b8b54c3efc1d",
+      "remoteProjectRelativePath": "output/preview-opening.png"
+    },
+    {
+      "path": "/tmp/vps-video-preview/contact-sheet.png",
+      "size": 876102,
+      "sha256": "98d2e1acbba4921b63313d83f489209be0edbae5f8079f61fcc81728f22b6bf6",
+      "remoteProjectRelativePath": "output/qa/contact-sheet.png"
+    },
+    {
+      "path": "/tmp/vps-video-preview/preview-comparison.png",
+      "size": 162259,
+      "sha256": "5d5c49f90178a0a6af58dccc531d73319b1b0633d9d369dfecb73913660e3d38",
+      "remoteProjectRelativePath": "output/preview-comparison.png"
+    },
+    {
+      "path": "/tmp/vps-video-qa/scene-04.png",
+      "size": 161134,
+      "sha256": "5c6a7d9db4d17a1027056e519e4fe5635ad8d1ffb0f8a39388f0810748b2147f",
+      "supplementalRelativePath": "backup/local-only-assets/vps-video-qa/scene-04.png"
+    },
+    {
+      "path": "/tmp/vps-video-qa/scene-05.png",
+      "size": 175549,
+      "sha256": "5be4fb99bf6d57359fcc6abf781de5064c8f1806e8792edf6b84ad5f896c5073",
+      "supplementalRelativePath": "backup/local-only-assets/vps-video-qa/scene-05.png"
+    },
+    {
+      "path": "/tmp/vps-video-qa/scene-07.png",
+      "size": 198079,
+      "sha256": "24ba49d2e7663f945837358393b555c5dd6e4d74d8d53c9cb03bd18b382f5b65",
+      "supplementalRelativePath": "backup/local-only-assets/vps-video-qa/scene-07.png"
+    },
+    {
+      "path": "/tmp/vps-video-qa/scene-06.png",
+      "size": 160629,
+      "sha256": "9cef4d7ffcbf9158a105a4fefdcd82e81b3a25d3be87fa5305674b1e37f0c3ed",
+      "supplementalRelativePath": "backup/local-only-assets/vps-video-qa/scene-06.png"
+    },
+    {
+      "path": "/tmp/vps-video-qa/scene-02.png",
+      "size": 148098,
+      "sha256": "35b78d625ca667137346742387b20fa69ff4c0747c236e5b64bf84040e4b8e89",
+      "remoteProjectRelativePath": "output/qa/scene-02.png"
+    },
+    {
+      "path": "/tmp/vps-video-qa/scene-03.png",
+      "size": 158767,
+      "sha256": "1f228b8c48f4a992a1f8f9881d0bc1fc4c9ee7e1ca663dee60114c5094b3c307",
+      "supplementalRelativePath": "backup/local-only-assets/vps-video-qa/scene-03.png"
+    },
+    {
+      "path": "/tmp/vps-video-qa/scene-01.png",
+      "size": 137775,
+      "sha256": "ba5f1c72cf93689f55695564bf5ef96fdc66bf0cec2e0c8bd002d06c4daa6124",
+      "remoteProjectRelativePath": "output/qa/scene-01.png"
+    },
+    {
+      "path": "/tmp/vps-video-qa/final-contact-sheet.png",
+      "size": 1173230,
+      "sha256": "d5dcd12f4249c98d5d4c0def9af5715328e530ecd2fc653d09624099b1fe4858",
+      "remoteProjectRelativePath": "output/qa/final-contact-sheet.png"
+    },
+    {
+      "path": "/tmp/vps-video-qa/contact-sheet.png",
+      "size": 876102,
+      "sha256": "98d2e1acbba4921b63313d83f489209be0edbae5f8079f61fcc81728f22b6bf6",
+      "remoteProjectRelativePath": "output/qa/contact-sheet.png"
+    },
+    {
+      "path": "/tmp/vps-video-qa/scene-08.png",
+      "size": 150971,
+      "sha256": "347064f439a63eace15bc7170fed77548e41e6669d8cd4a8af1e1100ac8179d6",
+      "remoteProjectRelativePath": "output/qa/scene-08.png"
+    },
+    {
+      "path": "/tmp/vps-video-qa/scene-09.png",
+      "size": 160466,
+      "sha256": "9d569be17d9391d6467cfcc7a86d196b8d6859017d01421c532419061754cd7b",
+      "remoteProjectRelativePath": "output/qa/scene-09.png"
+    }
+  ],
+  "verifiedAtUTC": "2026-10-24T06:47:30Z",
+  "summary": {
+    "fileCount": 25,
+    "totalBytes": 28090828,
+    "supplementalFileCount": 6,
+    "supplementalBytes": 1179890
+  }
+}

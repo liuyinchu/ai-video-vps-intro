@@ -1,0 +1,12 @@
+{
+  "clipCount" : 25,
+  "durationSeconds" : 107.34400000000001,
+  "generatedAt" : "2026-10-23T20:49:48Z",
+  "language" : "zh-CN",
+  "name" : "微软晓晓",
+  "provider" : "Microsoft Edge Read Aloud",
+  "rate" : "-5%",
+  "synthesisUnit" : "sentence",
+  "type" : "neural",
+  "voice" : "zh-CN-XiaoxiaoNeural"
+}

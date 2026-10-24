@@ -1,0 +1,15 @@
+Generation mode: built-in image_gen
+
+Use case: ads-marketing
+Asset type: A finished Chinese educational video cover / thumbnail, horizontal 16:9, 2048 × 1152 pixels.
+Primary request: Create one polished, highly legible video cover for a 1 minute 47 second explainer introducing VPS to ordinary people with no technical background. This is a complete final thumbnail with typography, not a mockup shown inside another device.
+Visual continuity: The existing video uses warm ivory #F5F3EB, very dark green #142524, mint #79D5C5 and fresh yellow-green #DBEF64. Use that restrained palette and a clean editorial technology feel.
+Composition: The left roughly 55 percent carries very large, beautifully typeset text. The right carries one compelling sculptural 3D illustration: a dark-green physical server case shown with an elegant cutaway front, containing three clearly separated virtual-computer modules. One module glows yellow-green to indicate the viewer's rented portion; the other two are subdued mint and dark green. A tiny simple laptop can be connected by a single curved cable. Smooth matte materials, precise bevels, realistic soft shadows and gentle ambient light. High visual quality, simple silhouette, generous breathing room.
+Text, exactly as written and no other text:
+Main headline first line: "VPS"
+Main headline second line: "到底是什么？"
+Small supporting line: "一台租在远方的虚拟电脑"
+A small pill near the top: "零基础科普"
+A small label attached to the highlighted module: "你的 VPS"
+Typography: VPS is the dominant element, extra-bold geometric sans serif. Chinese in a heavy clean modern Chinese sans, crisp accurate glyphs. The Chinese question remains extremely readable at phone thumbnail size. Supporting line is smaller but still legible. Dark ink on ivory; tasteful yellow-green highlight underneath part of the headline.
+Constraints: Keep all important text within an 8 percent safe margin. No human presenter, no stock-photo collage, no cloud vendor logos, no watermark, no extra prose, no social platform UI, no tiny technical diagrams or specifications. Do not imply an entire physical machine is exclusive to the user. Keep a confident contemporary educational editorial aesthetic with one strong focal illustration.
